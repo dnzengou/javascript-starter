@@ -1,1 +1,1 @@
-var myApiKey = 'YOUR API KEY HERE';
+var myApiKey = 'f010f5cc41e049c1aa10689793cc3e91';
